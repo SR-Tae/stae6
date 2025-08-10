@@ -11,29 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2023 - Current
+* B.S. in EE, Georgia Institute of Technology, 2023 - Current
 
 Skills
 ======
 * Programming
-  * Matlab/Simulink
-  * Python
-  * C/C++
-  * VHDL/Verilog
+  * Scientific Computing: Matlab/Simulink, Python
+  * Embedded Programming: C/C++
 * Hardware
-  * MCU
-  * FPGA
-  * Oscilloscope
-  * Waveform Generator
-  * Digital Multimeter
-  * Four point Probe
+  * MCU: Atmega328p (Arduino), LPC-1768 (Arm Mbed OS)
+  * Lab Equipment: Oscilloscope, Waveform Generator, Digital Multimeter, Four point Probe, Profilometer, Wafer Probe
 * CAD/Software
-  * Silvaco TCAD
-  * LTspice
-  * Qaurtus
-  * Cadence Innovus
-  * KiCad
-  * Git/Github
+  * TCAD: Silvaco Suprem
+  * ECAD: LTspice, KiCad
+  * Version Control: Git/Github
 * Language
   * Korean (Native)
   * English (Fluent)
@@ -42,12 +33,20 @@ Work experience
 ======
 * Summer 2025: Student Assistant (SWE)
   * GT Open Source Program Office
-  * Duties includes: Contribute to the development of Model Openness Framework to evaluate openness and completeness of AI models. Developed AI pipeline to generate Model data with IBM Granite running locally on Ollama.
+  * Duties includes: Contribute to the development of Model Openness Framework to evaluate openness and completeness of AI models. Developed AI pipeline to generate Model data with IBM Granite running locally on Ollama
   * Supervisor: Arnaud "Arno" Le Hors
 
 Relevant Coursework
 ======
-* Currently signed in to 43 different slack teams
+* Semiconductor Fabrication
+  * Fabrication and Modeling of 1-10 micron MOSFET device in a clean room enviornment
+* Microelectronic Circuits
+  * Basic semiconductor physics and microelectronic circuits: MOSFET and BJT device
+* Feedback Control Systems
+  * Intro to LTI feedback control system: PID control, Root-Locus, Bode & Nyquist Plot
+* Programming for Hardware/Software Systems
+  * Intro to computer systems with RISC-V ISA and embedded programming in C
+
 
 <!-- Publications
 ======
@@ -75,4 +74,6 @@ Activities
 
 Honors & Awards
 ======
-* To be Added
+* GT IEEE Robotech Hackathon: 1st Plcae, Amazon Track
+  * Won the 1st place with the Amazon Smart Scan Robot (link)
+  * Theme: Automation and Locomotion Robot for Amazon Warehouse
