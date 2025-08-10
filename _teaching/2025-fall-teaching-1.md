@@ -4,7 +4,7 @@ collection: teaching
 type: "UTA"
 permalink: /teaching/2025-fall-teaching-1
 venue: "Georgia Institute of Technology, ECE"
-date: 2025-Fall
+date: 2025-08-18
 location: "Atlanta, GA"
 ---
 
