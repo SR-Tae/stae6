@@ -23,13 +23,13 @@ repository               : "SR-Tae/stae6.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Seungryeol (Jake) Tae"
+  pronouns         : "he/his"
+  bio              : "Senior level EE major at GaTech, specializing in semiconductor device and control systems design. Passionate about electronics, embedded systems, and robotics."
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jaketae1224@gmail.com" 
 
   # Academic websites
   academia         : # URL
