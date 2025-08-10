@@ -21,7 +21,7 @@ main:
   #  url: /portfolio/
         
   - title: "Projects"
-    url: /Projects-Archive/
+    url: /projects-archive/
     
   - title: "CV"
     url: /cv/
