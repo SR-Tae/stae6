@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /sitemap/
+permalink: stae6.github.io/sitemap/
 author_profile: true
 ---
 
