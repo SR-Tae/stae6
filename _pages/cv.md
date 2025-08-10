@@ -11,42 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2023 - Current
+
+Skills
+======
+* Programming
+  * Matlab/Simulink
+  * Python
+  * C/C++
+  * VHDL/Verilog
+* Hardware
+  * MCU
+  * FPGA
+  * Oscilloscope
+  * Waveform Generator
+  * Digital Multimeter
+  * Four point Probe
+* CAD/Software
+  * Silvaco TCAD
+  * LTspice
+  * Qaurtus
+  * Cadence Innovus
+  * KiCad
+  * Git/Github
+* Language
+  * Korean (Native)
+  * English (Fluent)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Student Assistant (SWE)
+  * GT Open Source Program Office
+  * Duties includes: Contribute to the development of Model Openness Framework to evaluate openness and completeness of AI models. Developed AI pipeline to generate Model data with IBM Granite running locally on Ollama.
+  * Supervisor: Arnaud "Arno" Le Hors
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Relevant Coursework
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Currently signed in to 43 different slack teams
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -58,7 +67,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
-Service and leadership
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* To be Added
+
+Honors & Awards
+======
+* To be Added
