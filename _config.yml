@@ -22,14 +22,14 @@ repository               : "SR-Tae/stae6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
-  name             : "Seungryeol (Jake) Tae"
-  pronouns         : "he/his"  
-  bio              : "Senior level EE major at GaTech, specializing in semiconductor device and control systems design. Passionate about electronics, embedded systems, and robotics."
-  location         : "Atlanta, GA"
-  employer         : "Georgia Institute of Technology"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "jaketae1224@gmail.com" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
