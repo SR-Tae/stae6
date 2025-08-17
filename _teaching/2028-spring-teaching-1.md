@@ -1,10 +1,10 @@
 ---
-title: "ECE 2031 Fall 2025"
+title: "PHYS 2212 Spring 2028"
 collection: teaching
 type: "UTA"
-permalink: /teaching/2025-fall-teaching-1
-venue: "Georgia Institute of Technology, ECE"
-date: 2025-08-18
+permalink: /teaching/2028-spring-teaching-1
+venue: "Georgia Institute of Technology, PHYS"
+date: 2028-01-13
 location: "Atlanta, GA"
 ---
 
